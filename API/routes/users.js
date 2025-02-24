@@ -33,5 +33,12 @@ router.get('/',(req,res) =>{
   res.send(users);
 });
 
+router.post('/',(req,res)=>{
+  const user = req.body;
+
+  users.push(user);
+  res.send(`user ${user.nome} was added to the database`);
+})
+
 
 export default router;
