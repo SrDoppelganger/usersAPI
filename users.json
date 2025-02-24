@@ -29,10 +29,11 @@
     "email":"vriggeard4@newsvine.com",
     "telefone":"(605) 8543894"
   },
-  {"nome":"Rollin Mackro",
-  "nomeDeUsuário":"rmackro5",
-  "email":"rmackro5@mac.com",
-  "telefone":"(281) 5865449"
+  {
+    "nome":"Rollin Mackro",
+    "nomeDeUsuário":"rmackro5",
+    "email":"rmackro5@mac.com",
+    "telefone":"(281) 5865449"
   },
   {
     "nome":"Amanda Heis",
